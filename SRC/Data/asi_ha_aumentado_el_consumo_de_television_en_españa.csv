@@ -1,0 +1,43 @@
+﻿Año;Periodo;Consumo de TV
+1992;Año;192
+1993;Año;204
+1994;Año;210
+1995;Año;211
+1996;Año;214
+1997;Año;209
+1998;Año;210
+1999;Año;213
+2000;Año;210
+2001;Año;208
+2002;Año;211
+2003;Año;213
+2004;Año;218
+2005;Año;217
+2006;Año;217
+2007;Año;223
+2008;Año;227
+2009;Año;226
+2010;Año;234
+2011;Año;239
+2012;Año;246
+2013;Año;244
+2014;Año;239
+2015;Año;237
+2016;Año;233
+2017;Año;240
+2018;Año;234
+2019;Año;222
+2020;Año;240
+;;
+"Métrica:""Consumo de TV""";;
+"Fuente:""Barlovento Comunicación""";;
+"Clasificación:""""";;
+"Unidad:""Minutos persona / día""";;
+"Escala:""Unidades""";;
+"EscalaFactorPotencia10:""0""";;
+"SonDatosNumericos:""True""";;
+;;
+;;
+"Url:""https://www.epdata.es/asi-aumentado-consumo-television-espana/0cd00557-8781-496e-8087-457499ce9967""";;
+"Titulo:""Así ha aumentado el consumo de televisión en España""";;
+"Subtitulo:""""";;

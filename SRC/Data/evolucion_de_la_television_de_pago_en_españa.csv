@@ -1,0 +1,48 @@
+﻿"Año";"Periodo";"TV de pago";"Plataformas tradicionales (Movistar TV, Vodafone TV, Euskatel TV, Jazztel, etc)";"OTT'S (Netflix, Amazone Prime Video, HBO, etc)"
+"2015";"Marzo";"26,5";"24,1";"0"
+"2015";"Junio";"26,8";"24,5";"0"
+"2015";"Septiembre";"28,6";"26";"0,1"
+"2016";"Marzo";"30,8";"28";"0,5"
+"2016";"Junio";"32,3";"29,1";"0,6"
+"2016";"Septiembre";"33,5";"29,9";"1,2"
+"2017";"Marzo";"35,2";"30,5";"2,6"
+"2017";"Junio";"35,9";"30,2";"4,1"
+"2017";"Septiembre";"39,1";"32,4";"6,1"
+"2018";"Marzo";"43,7";"33,6";"20,4"
+"2018";"Junio";"45,2";"33,9";"21,1"
+"2018";"Septiembre";"51,6";"35,3";"28,9"
+"2019";"Marzo";"53,3";"34,3";"33,7"
+"2019";"Junio";"55,3";"35,3";"36,5"
+"2019";"Septiembre";"57";"33,6";"41"
+;;;;
+;;;;
+"Métrica":"TV de pago"
+"Fuente":"Asociación para la Investigación de Medios de Comunicación"
+"Clasificación":""
+"Unidad":"% individuos"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;
+;;;;
+"Métrica":"Plataformas tradicionales (Movistar TV, Vodafone TV, Euskatel TV, Jazztel, etc)"
+"Fuente":"Asociación para la Investigación de Medios de Comunicación"
+"Clasificación":""
+"Unidad":"% individuos"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;
+;;;;
+"Métrica":"OTT'S (Netflix, Amazone Prime Video, HBO, etc)"
+"Fuente":"Asociación para la Investigación de Medios de Comunicación"
+"Clasificación":""
+"Unidad":"% individuos"
+"Escala":"Unidades"
+"EscalaFactorPotencia10":"0"
+"SonDatosNumericos":"True"
+;;;;
+;;;;
+"Url":"https://www.epdata.es/evolucion-television-pago-espana/f11bc555-1808-40d2-8788-93710f7a2543"
+"Titulo":"Evolución de la televisión de pago en España"
+"Subtitulo":"Se incluye a que pagan por ello como a los que acceden gratuitamente"
